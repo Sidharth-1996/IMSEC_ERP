@@ -13,7 +13,7 @@ This Android application converts the AKTU ERP website into a mobile application
 
 1. Clone the repository:
    ```bash
-    https://github.com/Sidharth-1996/AKTU_ERP.git
+    https://github.com/Sidharth-1996/IMSEC_ERP.git
    ```
 
 2. Open the project in Android Studio.
